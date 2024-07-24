@@ -25,9 +25,12 @@ Here are some ideas to get you started:
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&logo=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Fea42cd8b-cf47-4502-96ca-0693d8cbfe8f)
-![AVR](https://img.shields.io/badge/AVR-0D76A8?style=for-the-badge&logo=gnu&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-0D76A8?style=for-the-badge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-32CD32?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 
