@@ -18,6 +18,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Inventor](https://img.shields.io/badge/Inventor-000000?style=for-the-badge&logo=autodesk&logoColor=white)![Fusion 360](https://img.shields.io/badge/Fusion%20360-F58536?style=for-the-badge&logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-D10000?style=for-the-badge&logo=autodesk&logoColor=white)
+![Vscode](https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3)
 
 
 
