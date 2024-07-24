@@ -20,6 +20,9 @@
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-D10000?style=for-the-badge&logo=autodesk&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-589632?style=for-the-badge&logo=gazebo&logoColor=white)
+![Atmel Studio](https://img.shields.io/badge/Atmel%20Studio-0C4A7D?style=for-the-badge&logo=atmel&logoColor=white)
+
 
 
 
