@@ -19,7 +19,7 @@
 ![Inventor](https://img.shields.io/badge/Inventor-000000?style=for-the-badge&logo=autodesk&logoColor=white)![Fusion 360](https://img.shields.io/badge/Fusion%20360-F58536?style=for-the-badge&logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-D10000?style=for-the-badge&logo=autodesk&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 
