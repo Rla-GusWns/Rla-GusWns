@@ -20,7 +20,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Atmel Studio](https://img.shields.io/badge/Atmel%20Studio-0C4A7D?style=for-the-badge&logo=atmel&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&logo=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Fea42cd8b-cf47-4502-96ca-0693d8cbfe8f)
-![AVR](https://img.shields.io/badge/AVR-0D76A8?style=for-the-badge&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-00CC66?style=for-the-badge&logoColor=white)
 
 #### 📚 Frameworks & Libraries
 
