@@ -1,4 +1,4 @@
-#### Hello, I am Hyunjun Kim, currently majoring in Robotics Engineering at Kwangwoon University in South Korea. Welcome!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Hyunjun+Kim%2C+currently+majoring+in+Robotics+Engineering+at+Kwangwoon+University+in+South+Korea)](https://git.io/typing-svg)
 ---
 <!--
 **Rla-GusWns/Rla-GusWns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
