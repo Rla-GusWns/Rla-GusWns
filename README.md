@@ -1,4 +1,4 @@
-## Hi there 👋
+#Hello, I am Hyunjun Kim, currently majoring in Robotics Engineering at Kwangwoon University in South Korea. I am dedicated to studying various fields within robotics engineering with great enthusiasm.
 
 <!--
 **Rla-GusWns/Rla-GusWns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
